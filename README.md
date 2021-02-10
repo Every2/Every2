@@ -12,3 +12,11 @@ I'm Christian, I'm an 18 year old guy learning web development.
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Every2&show_icons=true&theme=dark)
 
+### 👨‍💻 Languages and Tools
+
+<br />
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+

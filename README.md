@@ -1,4 +1,4 @@
-I'm Christian, I'm a 18 year old guy learning web development.
+I'm Christian, I'm an 18 year old guy learning web development.
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/every2nsi) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Every2) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/Everychris2) 
 

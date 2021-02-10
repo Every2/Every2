@@ -12,7 +12,7 @@ I'm Christian, I'm an 18 year old guy learning web development.
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Every2&show_icons=true&theme=dark)
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Languages 
 
 <br />
 

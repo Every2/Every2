@@ -5,7 +5,7 @@ I'm Christian, I'm an 18 year old guy.
 
 
 
-- 🌱 I’m currently and Python
+- 🌱 I’m currently Learning Python
 
 
 

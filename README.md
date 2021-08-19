@@ -1,6 +1,7 @@
 I'm Christian, I'm an 18 year old guy.
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/every2nsi) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Every2)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/every2nsi) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Every2)
 
 
 

@@ -1,4 +1,4 @@
-I'm Christian, I'm an 18 year old guy.
+Hi, i don't know what I should say.
 
 - 🌱 I’m currently Learning Python
 

@@ -1,6 +1,6 @@
 Hi, i don't know what I should say.
 
-- 🌱 I’m currently Learning Python
+- 🌱 I’m currently Learning Python and C
 
 
 

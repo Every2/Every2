@@ -1,6 +1,6 @@
-Hi, i don't know what I should say.
+Hi, I'm just a guy interessed in computer science and programming.
 
-- 🌱 I’m currently Learning Python and C
+- Doing CS in UNIFACVEST. 😳 
 
 
 
@@ -11,7 +11,7 @@ Hi, i don't know what I should say.
 Languages:
 
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 In future: 
 

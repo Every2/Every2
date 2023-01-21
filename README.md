@@ -4,10 +4,6 @@ Hi, I'm just a guy interessed in computer science and programming.
 
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Every2&show_icons=true&theme=dark)
-
-
-
 Languages and Tools:
 
 
@@ -20,4 +16,17 @@ In future:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/every2nsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="every2nsi" height="30" width="40" /></a>
+</p>
+
+<h2> Contato </h2>
+</br>
+<p align="center">
+<a href="https://linkedin.com/in/every2nsi" target="_blank" alt="Linkedin" > 
+<img src="https://img.shields.io/badge/%20-Linkedin-blue?style=flat-square&logo=Linkedin&Color=white" alt="Linkedin" style="width:13%;">
+&nbsp;
+</a>
+
+<a href="mailto:christiansantoslima21@gmail.com">
+    <img src="https://img.shields.io/badge/%20-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"  style="width:10%;" >
+</a>
 </p>

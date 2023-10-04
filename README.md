@@ -1,9 +1,24 @@
-I like computers. CompSci student
-
-![Alt Text](https://tenor.com/pt-BR/view/lain-computer-gif-20283313.gif)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Every2&layout=compact&theme=dracula" />
+<div style="display: flex; align-items: center;">
+  <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile" width="200" height="150"/>
+   <p style="margin-left: 10px;" >I like computers. CompSci Student</p>
+</div>
+
+<p style="margin-top: 10px;">
+Currently I'm focused in C++ and low level programming, but I study other topics too.
+</p>
+
+### Bye
+<img src="https://tenor.com/pt-BR/view/serial-experiments-lain-gif-25783482.gif" alt="Lain smile" width="200" height="150"/>
+
+### Are you still here? 
+<img src="https://tenor.com/pt-BR/view/editing-anime-gif-25803727.gif" />
+
+---
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 

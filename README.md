@@ -1,9 +1,6 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile" width="200" height="150"/>
-   <div>
-     <p style="margin: 0;">I like computers.</p>
-   </div>
-</div>
+ <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile" align="left" width="100" height="100"/>
+ I like computers.
+ 
 ---
 
 ### Bye

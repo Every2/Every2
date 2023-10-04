@@ -1,12 +1,10 @@
-
-
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile" width="200" height="150"/>
    <div>
      <p style="margin: 0;">I like computers.</p>
    </div>
 </div>
-
+---
 
 ### Bye
 <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-gif-25783482.gif" alt="Lain smile" width="200" height="150"/>

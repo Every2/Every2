@@ -5,9 +5,7 @@
    I like computers. CompSci Student
 </div>
 
-<p style="margin-top: 100px;">
 Currently I'm focused in C++ and low level programming, but I study other topics too.
-</p>
 
 ### Bye
 <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-gif-25783482.gif" alt="Lain smile" width="200" height="150"/>

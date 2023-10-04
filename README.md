@@ -1,5 +1,5 @@
- <img lign="left" width="100" height="100" src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile">
- I like computers.
+ <img lign="left" width="100" height="100" src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile">  I like computers.
+
 
 
 ### Bye

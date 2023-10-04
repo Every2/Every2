@@ -5,7 +5,7 @@
    I like computers. CompSci Student
 </div>
 
-<p style="margin-top: 15px;">
+<p style="margin-top: 100px;">
 Currently I'm focused in C++ and low level programming, but I study other topics too.
 </p>
 

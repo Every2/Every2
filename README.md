@@ -1,6 +1,6 @@
 ###  I like computers.
 
- <src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile"> 
+ <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile"> 
 
 ---
 

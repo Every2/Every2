@@ -2,7 +2,9 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile" width="200" height="150"/>
-   I like computers. CompSci Student
+   <div>
+     <p style="margin: 0;">I like computers.</p>
+   </div>
 </div>
 
 

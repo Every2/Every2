@@ -24,3 +24,4 @@
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 Currently I'm focused in C++ and low level programming, but I study other topics too.
 
+![Check my blog, maybe you can find something useful!](https://every2.github.io/blog/)

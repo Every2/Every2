@@ -1,27 +1,10 @@
-###  I like computers.
+# Hi!
 
- <img src="https://tenor.com/pt-BR/view/serial-experiments-lain-lain-anime-smug-anime-smile-gif-14038034.gif" alt="Lain smile"> 
+I'm Christian, I like low level systems, but I like computers in general. You can call me "Jack of all trades, master of none". I really like learn different things to have many perspectives.
 
----
-
-### Bye
-<img src="https://tenor.com/pt-BR/view/serial-experiments-lain-gif-25783482.gif" alt="Lain smile" width="200" height="150"/>
-
----
-
-
-### Are you still here? 
-<img src="https://tenor.com/pt-BR/view/editing-anime-gif-25803727.gif" />
-
----
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/TYPESCRIPT-00599C?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-Currently I'm focused in C++ and low level programming, but I study other topics too.
+# Stack
+![](https://img.shields.io/badge/TYPESCRIPT-00599C?style=for-the-badge&logo=typescript&logoColor=white) - Interesting to develop web.
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - I really like Rust Design.
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) - Meu guilty pleasure, I love hate this lang.
 
 [Check my blog, maybe you can find something useful!](https://every2.github.io/blog/)

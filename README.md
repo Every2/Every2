@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Christian, I like low level systems, but I like computers in general. You can call me "Jack of all trades, master of none". I really like learn different things to have many perspectives.
+My name is Christian, I like low level systems, but I like computers in general. You can call me "Jack of all trades, master of none". I really like to learn different things to have many perspectives.
 
 # Stack
 ![](https://img.shields.io/badge/TYPESCRIPT-00599C?style=for-the-badge&logo=typescript&logoColor=white) - Interesting to develop web.

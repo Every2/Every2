@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Christian, I like low level systems and computer science. Currently i'm studying Kernel Development.
+My name is Christian, I like low level systems and computer science. Currently I'm studying Kernel Development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Every2&theme=radical&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 

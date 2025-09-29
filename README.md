@@ -6,4 +6,4 @@ Hi, I'm Christian, a computer science student. I'm really interested in system p
 - 💡 I'm currently learning about the Linux Kernel and more about data structures and algorithms
 - 🔋 My stack is: 🦀 and 🇨
 
-[Sometimes I write, check my blog](https://every2.github.io/blog/)
+[Sometimes I write, check my blog in a non AI slop site](https://every0b10.gitlab.io/blog/)
